@@ -1,0 +1,3 @@
+C:\Users\Felipe\source\repos\gui\gui\x64\Debug\gui.vcxproj.AssemblyReference.cache
+C:\Users\Felipe\source\repos\gui\gui\x64\Debug\gui.MyForm.resources
+C:\Users\Felipe\source\repos\gui\gui\x64\Debug\gui.vcxproj.GenerateResource.cache
